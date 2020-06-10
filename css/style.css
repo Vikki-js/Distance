@@ -348,6 +348,7 @@ body{
 }
 .post-button-icon{
     fill:#595959;
+    outline:none;
 }
 .post-footer:before {
     content:"";
